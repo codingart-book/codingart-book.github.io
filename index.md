@@ -1,3 +1,7 @@
+---
+title: Coding Art Book
+---
+
 # Coding Art
 
-This a preliminary website for hte book 'Coding Art'
+This the preliminary website for the book "Coding Art" by Yu Zhang and Mathias Funk. 
